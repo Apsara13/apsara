@@ -1,0 +1,44 @@
+.content {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom:32px;
+    max-width: 960px;
+    flex-direction: column;
+  }
+
+  .background-style{
+      height:889px;
+      width:1182px;
+      background: url('../../assets/1088580.jpg');
+      position: absolute;
+      min-width: 100%;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-position: center;
+      background-size: cover;
+  }
+
+  .logo-style {
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+
+  .epic-style {    
+    margin-left: 50px;
+    margin-top: 12px;
+    color:rgb(246, 250, 8);
+    font-size: 30px;
+    font-style: bold;
+    font-family: cursive;
+  }
+
+  .academy-style {    
+    margin-left: 20px;
+    margin-top: 12px;
+    color:white
+  }
+
+  .spacer {
+    margin-right: 32px;
+
+  }
